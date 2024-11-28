@@ -1,2 +1,0 @@
-"# konda" 
-"# konda" 

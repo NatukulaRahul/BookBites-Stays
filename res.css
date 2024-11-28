@@ -567,3 +567,16 @@ h2.explore-title-2 {
 	}
 
 }
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+#chai{
+	height: 200px;
+}
